@@ -1,6 +1,6 @@
 # This is my work of completing the course "Introduction to Pytest" on Test Automation University
 
-##In this course I learned the fundamentals of pytest.
+## In this course I learned the fundamentals of pytest.
 I learned: 
 - Writing Test Cases
 - Parametrization
